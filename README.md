@@ -1,4 +1,4 @@
-# motion_mouse_soft
+# motion_mouse_app
 
 A new Flutter project.
 

@@ -22,13 +22,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.1.0-nullsafety.1"
-  bubble_bottom_bar:
-    dependency: "direct main"
-    description:
-      path: "bubble_bottom_bar-1.2.0-hijack"
-      relative: true
-    source: path
-    version: "1.2.0"
   characters:
     dependency: transitive
     description:

@@ -1,4 +1,4 @@
-name: motion_mouse_soft
+name: motion_mouse_app
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -26,8 +26,6 @@ dependencies:
   path_provider: 1.6.27
   introduction_screen: ^1.0.7
   shared_preferences:
-  bubble_bottom_bar:
-    path: ./bubble_bottom_bar-1.2.0-hijack
   floating_action_bubble: 1.0.9
   animated_bottom_navigation_bar: 0.2.1
   flutter_iconpicker: 2.2.2
